@@ -34,15 +34,15 @@
 <header id="header" style="box-shadow: none; background-color: rgba(255, 255, 255, 0);">
     <div class="header-logo">
         <a class="head-logo-box" href="">
-           <img class="logo" src="image/jkt4.png" alt="">
+           <img class="logo" src="image/jkt5.png" alt="">
             <div class="header-title" style="color: rgb(255, 255, 255);">极课堂</div>
         </a>
     </div>
     <div class="navbar-header">
         <ul class="navbar-nav">
             <li><a href="" id="function" style="color: rgb(255, 255, 255);">功能</a></li>
-            <li><a href="http://portal.teachermate.com.cn:80/?cat=15" id="phone" style="color: rgb(255, 255, 255);">关于我们</a></li>
-            <li><a href="http://portal.teachermate.com.cn:80/?cat=5" id="blog" style="color: rgb(255, 255, 255);">联系我们</a></li>
+            <li><a href="" id="phone" style="color: rgb(255, 255, 255);">关于我们</a></li>
+            <li><a href="" style="color: rgb(255, 255, 255);">联系我们</a></li>
         </ul>
         <ul class="navbar-button">
             <li><a class="register" href="login.jsp">登录</a></li>
