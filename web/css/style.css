@@ -1,14 +1,17 @@
-body {
-  background: #222;
-}
 
+body {
+
+}
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2.5rem;
+  background: #393D49
 }
-
+.wenzi1{
+  margin-top: 50px;
+}
 .logo {
   font-size: 34px;
   line-height: 50px;

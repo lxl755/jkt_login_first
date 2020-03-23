@@ -1,6 +1,5 @@
 body {
-    background-color: #3498db;
-    /*background-image: url("/image/background.png");*/
+    background-image: url("/image/background.png");
     /*text-align: center;*/
     /*height: 100%;*/
     /*overflow: hidden;*/
@@ -8,11 +7,6 @@ body {
     /*background-position: center;*/
     /*background-attachment: fixed;*/
 }
- .lunbotu{
-     height: auto;
-     width: 100%;
-     background-color: #3498db;
- }
 /*.top {*/
 /*    background: #ffffff2e;*/
 /*    width: 100%;*/

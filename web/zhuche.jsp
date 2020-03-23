@@ -19,7 +19,7 @@
 <body>
 <div>
     <header>
-        <a href="#0" class="logo"><img src="">logo</a>
+        <a href="#0" class="logo"><img src="/image/jkt5.png"></a>
         <nav class="site-nav">
             <ul>
                 <li><a href="first.jsp">网站首页</a></li>

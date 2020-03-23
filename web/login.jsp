@@ -20,10 +20,10 @@
 <body>
 
 <header>
-    <a href="#0" class="logo"><img src="">logo</a>
+    <a href="#0" class="logo"><img src="/image/jkt4.png"></a>
     <nav class="site-nav">
         <ul>
-            <li><a href="first.jsp">网站首页</a></li>
+            <li><a href="first.jsp">首页</a></li>
             <li><a href="login.jsp">登录</a></li>
             <li><a href="zhuche.jsp">注册</a></li>
             <li><a href="#">关于我们</a></li>
